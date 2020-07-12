@@ -1,4 +1,4 @@
-
+//lambda function was introduced in java se8
 interface Sayable{
     public String say(String name);
 }
