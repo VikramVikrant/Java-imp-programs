@@ -1,3 +1,7 @@
+//HashSet doesnot maintain the insertion order
+//HashSet contains unique elements only
+//It is the best approach for search operation
+//It stores element using hashing
 package HashSet;
 import java.util.*;
 public class append {
